@@ -1,0 +1,20 @@
+{
+  "name": "cypress-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "cy:run-dashboard": "cypress run --record --key 913dcf57-7223-47fd-b5b2-a17d473518f3"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress-image-snapshot": "^4.0.0"
+  },
+  "devDependencies": {
+    "cypress": "^6.2.1",
+    "cypress-file-upload": "^4.1.1"
+  }
+}

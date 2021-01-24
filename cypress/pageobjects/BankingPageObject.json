@@ -1,0 +1,7 @@
+{
+    "BankingLogin":
+     {
+         "customerBtn":"Customer Login",
+         "bankManagerBtn":"Bank Manager Login"
+     }
+}

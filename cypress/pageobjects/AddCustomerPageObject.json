@@ -1,0 +1,10 @@
+{
+    "AddCustomer":
+    {
+        "firstName": "[placeholder='First Name']",
+         "lastName": "[placeholder='Last Name']",
+         "postCode": "[placeholder='Post Code']",
+         "btn":     " form > button"
+    }
+
+}

@@ -1,0 +1,8 @@
+{
+    "BankingManagerLogin":
+     {
+         "addCustomerBtn":"Add Customer",
+         "openAccountBtn":"Open Account",
+         "customerBtn" :"Customers"
+     }
+}
